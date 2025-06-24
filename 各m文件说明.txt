@@ -1,0 +1,8 @@
+CalculateForS.m-用来计算采样次数和s计算值的关系
+CalculateForS2.m-用来计算s的“真值”
+CalculateForS3.m-用来计算s的“真值”
+CalculateForLSecondByX.m-用来计算整个扫描区域是横向的扫描数据
+CalculateForLSecondByY.m-用来计算整个扫描区域是纵向的扫描数据
+SoilMoistureCalculateWithICDM.m-改进的变化检测算法计算土壤水分
+vegSoilContent.m-用来计算植被含水量
+SARWithoutMveg.m-用来去除植被影响
